@@ -1,14 +1,9 @@
 # 301DartsGame
 
-Can be found in https://t.me/301DartsGame
-
-This bot does not store any sensitive data. Moreover, in order to provide more confidence to the user, it supports a private mode in which the password can be sent hashed to not provide any information of the raw password.
+Can be found in https://t.me/Darts301GameBot
 
 ## Description
-TODO
-
-## Commands
-TODO
+This bot allows to manage the score punctuation of the Darts game 301.
 
 ## Example
 TODO
